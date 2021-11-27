@@ -3,7 +3,7 @@
 empty ! isn't ? 😄
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BriceTatong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BriceTatong&repo=Smart-Home-Database-Implementation)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
