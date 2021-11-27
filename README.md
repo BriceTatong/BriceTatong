@@ -1,6 +1,20 @@
 ### Hi there 👋
 
 empty ! isn't ? 😄
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BriceTatong&layout=compact)](https://github.com/BriceTatong/github-readme-stats)
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **BriceTatong/BriceTatong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
