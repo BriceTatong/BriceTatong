@@ -4,13 +4,7 @@ empty ! isn't ? 😄
 
 
 
-
-
-
-
-
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BriceTatong&theme=cobalt)
 
 
 
