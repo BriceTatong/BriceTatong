@@ -1,4 +1,5 @@
 ### Hi there 👋
+<!--
 github profile markdown generator logo
 GitHub Profile README Generator
 Star this repo
@@ -15,6 +16,7 @@ download markdown
 download backup
 
 preview
+-->
 <h1 align="center">Hi 👋, I'm Brice Tatong</h1>
 <h3 align="center">A passionate developer !</h3>
 
