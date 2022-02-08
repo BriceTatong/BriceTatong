@@ -18,7 +18,7 @@ download backup
 preview
 -->
 <h1 align="center">Hi 👋, I'm Brice Tatong</h1>
-<h3 align="center">A passionate developer !</h3>
+<h3 align="center">An Analyst Programmer !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bricetatong&label=Profile%20views&color=0e75b6&style=flat" alt="bricetatong" /> </p>
 
